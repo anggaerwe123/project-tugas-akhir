@@ -1,0 +1,9 @@
+body{
+    background: #f0f0f0;
+}
+.banner{
+    background: url("../images/background.jpg")no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 30%;
+}

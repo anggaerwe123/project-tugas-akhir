@@ -1,0 +1,29 @@
+.receipt-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.receipt-header {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.receipt-table th, .receipt-table td {
+    font-size: 0.9rem;
+    padding: 5px;
+}
+.total-row {
+    font-weight: bold;
+}
+.footer-text {
+    font-size: 0.8rem;
+    text-align: center;
+    margin-top: 20px;
+    color: #555;
+}
+.logo-indomaret {
+    width: 100px;
+}
